@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	margin-left: auto;
     margin-right: auto;
-	padding-top: 100px; 
+	padding-top: 80px; 
 }
 
 #title {
@@ -11,7 +11,7 @@ body {
     margin-right: auto;
 }
 div.roulette {
-	margin-top: 20px;
+	margin-top: 15px;
 }
 div.roulette-inner {
 	left : 10px;
@@ -22,8 +22,8 @@ div.roulette_container {
 	margin-left: auto;
     margin-right: auto;
 	background-color:rgb(253, 252, 253);
-	width:700px;
-	height:700px;
+	width:800px;
+	height:800px;
 	border:1px solid rgba(253, 252, 253, 0.31);
 	box-shadow:0px 0px 3px lightpink;margin:auto;
 }
@@ -34,5 +34,5 @@ div.roulette_container {
 	margin-left: auto;
     margin-right: auto;
 	position: relative;
-	top: 15px;
+	top: 10px;
 }
